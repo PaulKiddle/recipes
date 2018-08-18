@@ -1,8 +1,8 @@
 ---
 ingredients:
   - olive or rapeseed oil
-  - 1 onion, peeld & finely chopped
-  - 4 cloves garlic, peelded & finely chopped
+  - 1 onion, peeled & finely chopped
+  - 4 cloves garlic, peeled & finely chopped
   - 1 thumb-sized piece of ginger, peeled & finely chopped
   - 1 red or green chilli, finely chopped
   - 1 tbsp good chilli powder
