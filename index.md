@@ -1,4 +1,4 @@
-<h1>{{ site.title }}</h1>
+<h1>{{ site.name }}</h1>
 
 <ul>
 {% for post in site.recipes %}
