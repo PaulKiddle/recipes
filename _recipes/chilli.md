@@ -16,7 +16,7 @@ ingredients:
   - 1 tbsp cocoa powder
   - salt & pepper
   - yoghurt
-  - corriander
+  - coriander
   - rice or whatever
 ---
 
