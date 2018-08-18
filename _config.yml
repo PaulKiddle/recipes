@@ -1,0 +1,15 @@
+name: Recipebook
+
+collections:
+  recipes:
+    output: true
+    permalink: /:title
+
+theme: jekyll-theme-dinky
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "recipe"
