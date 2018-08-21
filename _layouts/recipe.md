@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1>{{ page.title }}</h1>
+
 {% if page.ingredients %}
 <b>Ingredients:</b>
 <ul>
@@ -9,6 +11,14 @@ layout: default
   <li>{{ ingredient }}
 {% endfor %}
 </ul>
+{% endif %}
+
+{% if page.serves %}
+<p><b>Serves {{ page.serves }}</b></p>
+{% endif %}
+
+{% if page.source %}
+<p><b>Source:</b> <a href="{{ page.source }}">{{ page.source }}</a></p>
 {% endif %}
 
 {{ content }}
