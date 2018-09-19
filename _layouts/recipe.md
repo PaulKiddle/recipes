@@ -18,7 +18,7 @@ layout: default
 {% endif %}
 
 {% if page.source %}
-<p><b>Source:</b> <a href="{{ page.source }}">{{ page.source }}</a></p>
+<p><b>Source:</b> <a href="{{ page.source.url | default: page.source }}">{{ page.source.name | default: page.source }}</a></p>
 {% endif %}
 
 {{ content }}
