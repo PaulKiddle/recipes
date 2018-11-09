@@ -18,6 +18,7 @@ ingredients:
   - 2 Large Portobello Mushrooms gills removed & sliced on the bias
   - 1 each Red Green, Yellow & Orange Bell Pepper, sliced
   - 1 Red Onion cut half and into slices
+  - 1 can black beans
   - Oil for cooking
 #FOR SERVING:
   - Tortillas
@@ -28,5 +29,5 @@ ingredients:
 2. In a hot cast iron skillet or fry pan, add 1-1/2 tsp of oil and the sliced red onions. Cook for 3 minutes.
 3. Add all of the sliced red peppers and cook until tender and charred. Remove from the pan.
 4. Add another teaspoon of oil and the prepared mushrooms. Sprinkle seasoning and cook until the first side is charred and mushroom is beginning to get tender. Flip and repeat.
-5. Add the peppers back to the pan and cook for a few more minutes. Serve sizzling hot.
+5. Add the peppers back to the pan and the beans and cook for a few more minutes. Serve sizzling hot.
 6. Add sides such as tortillas, vegan sour cream, salsa, guacamole, etc.
