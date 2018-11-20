@@ -23,10 +23,15 @@ ingredients:
   - Chopped fresh cilantro leaves
   - Unsweetened shredded or large-flake coconut
   - Lime wedges (optional)
+  - Currants or raisins
 ---
 
 1.    In a large saucepan, heat the oil over medium heat. The oil is hot enough when a cumin seed sizzles when tossed into the pan. Add the cumin seeds and toast for about a minute, until fragrant and lightly darkened in color (be careful not to burn them). Immediately stir in the onion, season with a pinch of salt, and cook for 3 to 5 minutes, or until the onion is soft and translucent.
 2.    Add the garlic, ginger, turmeric, coriander, and red pepper flakes. Stir to combine and sauté for a couple of minutes, until the garlic softens.
 3.    Add the sweet potato, chickpeas, tomatoes with their juices, and coconut milk. Stir to combine, cover, and simmer over medium heat for 20 to 30 minutes, until the potatoes are fork-tender. At this point, I always mash one-third of the mixture to thicken the sauce (using a potato masher), but this step is optional.
-4.    Stir in the spinach and cook until wilted. Season with the salt and black pepper to taste.
+4.    Add currants. Stir in the spinach and cook until wilted. Season with the salt and black pepper to taste.
 5.    Serve on a bed of cooked grains, garnished with cilantro and coconut. If desired, offer lime wedges for squeezing over the curry. Store the cooled curry in an airtight container in the fridge for 4 to 5 days, or in the freezer for up to 1 month.
+
+## Notes
+
+As an alternative to sweet potato use other root veg like carrot and potato.
