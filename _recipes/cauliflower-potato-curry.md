@@ -2,7 +2,7 @@
 source:
   name: BBC Good Food
   url: https://www.bbcgoodfood.com/recipes/420629/cauliflower-and-potato-curry
-serves: 4
+serves: 3
 time:
   prep: 15 mins
   cook: 40 mins
