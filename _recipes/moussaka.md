@@ -10,11 +10,16 @@ ingredients:
   - 2 aubergines, cut into slices
   - 300ml tub crème fraîche
   - 140g cheddar, grated
+  
+source:
+  name: BBC Food: Cheats Moussaka
+  url: https://www.bbcgoodfood.com/recipes/cheats-moussaka
+
+serves: 4
+
 ---
 
 # Moussaka
-
-Source: https://www.bbcgoodfood.com/recipes/cheats-moussaka
 
 1. Boil the potatoes whole for 20 mins or just until tender. Drain and allow to cool.
 
