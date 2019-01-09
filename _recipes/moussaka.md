@@ -12,7 +12,7 @@ ingredients:
   - 140g cheddar, grated
   
 source:
-  name: BBC Food: Cheats Moussaka
+  name: "BBC Food: Cheats Moussaka"
   url: https://www.bbcgoodfood.com/recipes/cheats-moussaka
 
 serves: 4
